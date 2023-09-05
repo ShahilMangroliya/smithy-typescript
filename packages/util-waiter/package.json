@@ -24,7 +24,7 @@
     "url": "https://aws.amazon.com/javascript/"
   },
   "license": "Apache-2.0",
-  "main": "./dist-cjs/index.js",
+  "main": "./dist-es/index.js",
   "module": "./dist-es/index.js",
   "types": "./dist-types/index.d.ts",
   "engines": {

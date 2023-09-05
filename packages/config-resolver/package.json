@@ -14,7 +14,7 @@
     "test": "jest",
     "extract:docs": "api-extractor run --local"
   },
-  "main": "./dist-cjs/index.js",
+  "main": "./dist-es/index.js",
   "module": "./dist-es/index.js",
   "types": "./dist-types/index.d.ts",
   "author": {

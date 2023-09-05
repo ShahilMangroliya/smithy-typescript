@@ -12,7 +12,7 @@
     "clean": "rimraf ./dist-* && rimraf *.tsbuildinfo",
     "prepack": "${packageManager} run clean && ${packageManager} run build"
   },
-  "main": "./dist-cjs/index.js",
+  "main": "./dist-es/index.js",
   "types": "./dist-types/index.d.ts",
   "module": "./dist-es/index.js",
   "sideEffects": false,

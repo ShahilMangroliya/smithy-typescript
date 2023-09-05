@@ -2,7 +2,7 @@
   "name": "@smithy/util-test",
   "version": "0.0.0",
   "private": true,
-  "main": "./dist-cjs/index.js",
+  "main": "./dist-es/index.js",
   "module": "./dist-es/index.js",
   "types": "./dist-types/index.d.ts",
   "scripts": {

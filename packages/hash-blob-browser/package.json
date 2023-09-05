@@ -13,7 +13,7 @@
     "format": "prettier --config ../../prettier.config.js --ignore-path ../.prettierignore --write \"**/*.{ts,md,json}\"",
     "test": "karma start karma.conf.js"
   },
-  "main": "./dist-cjs/index.js",
+  "main": "./dist-es/index.js",
   "module": "./dist-es/index.js",
   "types": "./dist-types/index.d.ts",
   "author": {

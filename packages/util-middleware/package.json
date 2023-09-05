@@ -2,7 +2,7 @@
   "name": "@smithy/util-middleware",
   "version": "2.0.0",
   "description": "Shared utilities for to be used in middleware packages.",
-  "main": "./dist-cjs/index.js",
+  "main": "./dist-es/index.js",
   "module": "./dist-es/index.js",
   "scripts": {
     "build": "concurrently 'yarn:build:cjs' 'yarn:build:es' 'yarn:build:types && yarn build:types:downlevel'",
